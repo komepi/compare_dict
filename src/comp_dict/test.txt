@@ -1,0 +1,17 @@
+[
+  {
+    "id": "title",
+    "contents": "",
+    "contents_value": { "en": "Title", "ja": "タイトル" },
+    "useable_status": "true",
+    "mapping": ["title"],
+    "sche_or_attr": [
+      { "id": "title", "contents": "title", "checkStus": false }
+    ],
+    "default_display": true,
+    "inputType": "text",
+    "inputVal": "",
+    "mappingFlg": false,
+    "mappingName": ""
+  }
+]
